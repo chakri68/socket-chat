@@ -54,7 +54,7 @@ $ yarn start
 
 ## Related
 
-[Socket-Pixels](https://github.com/amitmerchant1990/markdownify-web) - Svelte Frontend for Socket-Pixels
+[Socket-Pixels](https://github.com/chakri68/socket-pixels) - Svelte Frontend for Socket-Pixels
 
 ## Support
 
